@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Text;
 
-namespace ConsoleApplication1
+namespace Sample02
 {
     class TypeSample
     {
         TypeSample(int x,int y,int z)
         {
-           
+            coordinates.x = x;
+            coordinates.y = y;
+            coordinates.z = z;
         }
         private struct Coordinates
         {
