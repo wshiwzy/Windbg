@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Sample02
+namespace _02Sample
 {
     class TypeSample
     {
